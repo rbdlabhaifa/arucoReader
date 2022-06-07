@@ -1,4 +1,0 @@
-/home/tzuk/Documents/2022summerCourse/aruco/cmake-build-debug/CMakeFiles/aruco.dir
-/home/tzuk/Documents/2022summerCourse/aruco/cmake-build-debug/CMakeFiles/runAruco.dir
-/home/tzuk/Documents/2022summerCourse/aruco/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/tzuk/Documents/2022summerCourse/aruco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
