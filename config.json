@@ -1,0 +1,7 @@
+{
+  "yamlCalibrationPath" : "/home/tzuk/Documents/2022summerCourse/aruco/cameraConfigs/example.yaml",
+  "isCameraString": false,
+  "cameraPort": 0,
+  "cameraString": "",
+  "currentMarkerSize" : 0.2
+}
